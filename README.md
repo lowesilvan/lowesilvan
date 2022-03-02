@@ -1,6 +1,6 @@
 ### Hello World, I'm Lowe  👋
 
- <img align="right" alt="code-GIF" src="https://github.com/lowesilvan/lowesilvan/blob/master/code-ninja.gif" width="500" height="320" />
+ <img align="right" alt="code-GIF" src="https://github.com/lowesilvan/lowesilvan/blob/master/code-ninja.gif" width="400" height="320" />
 
 
 ## I have an interesting career roadmap, and I want to enjoy every part of it!!
