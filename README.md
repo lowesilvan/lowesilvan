@@ -5,7 +5,7 @@
 
 ## I have an interesting career roadmap, and I want to enjoy every part of it!!
 - ✍ You can find some of my highlighted projects here [portfolio]
-- 🔭 I’m currently learning React Native and Docker
+- 🔭 I’m currently learning AWS and Docker
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: he/Him
