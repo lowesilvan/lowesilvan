@@ -4,7 +4,7 @@
 
 
 ## I have an interesting career roadmap, and I want to enjoy every part of it!!
-- ✍ You can find my projects here [portfolio]
+- ✍ You can find some of my highlighted projects here [portfolio]
 - 🔭 I’m currently learning React Native and Docker
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
@@ -14,7 +14,6 @@
 
 ### Get in touch:
 [<img align="left" alt="lowe mbonda | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="lowe mboda | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="lowe mbonda" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 <br />
