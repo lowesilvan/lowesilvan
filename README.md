@@ -1,4 +1,4 @@
-### Hello World, I'm Lowe  👋
+# <div align="center">Hello World, I'm Lowe  👋 </div>
 
  <img align="right" alt="code-GIF" src="https://github.com/lowesilvan/lowesilvan/blob/master/code-ninja.gif" width="400" height="320" />
 
