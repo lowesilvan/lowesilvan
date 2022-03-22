@@ -4,8 +4,8 @@
 
 
 ## I have an interesting career roadmap, and I want to enjoy every part of it!!
-- ✍ You can find some of my highlighted projects here [portfolio]
-- 🔭 I’m currently learning AWS and Docker
+- ✍ I'm currently working on a Js app that will generate a spotify playlist based on users liked youtube videos
+- 🔭I want to learn AWS and Docker next
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: he/Him
