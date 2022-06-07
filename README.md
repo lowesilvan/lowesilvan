@@ -50,7 +50,7 @@
 
 </details>
 
-[website]: https://lowesilvan.github.io/Portfolio/
+[website]: https://lowesilvan.github.io/portfolio/
 [youtube]: https://www.youtube.com/channel/UCwOBA4aHbwNnyVJ4n1YWmCw/
 [instagram]: https://www.instagram.com/lowesilvan/
 [linkedin]: https://www.linkedin.com/in/lowesilvan/
