@@ -54,7 +54,7 @@
 [youtube]: https://www.youtube.com/channel/UCwOBA4aHbwNnyVJ4n1YWmCw/
 [instagram]: https://www.instagram.com/lowesilvan/
 [linkedin]: https://www.linkedin.com/in/lowesilvan/
-[portfolio]: https://lowesilvan.github.io/Portfolio/
+[portfolio]: https://lowesilvan.github.io/portfolio/
 
 
 <!--
