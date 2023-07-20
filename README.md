@@ -4,9 +4,9 @@
 
 
 ## I have an interesting career roadmap, and I want to enjoy every part of it!!
-- ✍ I'm currently working on a Js app that will generate a spotify playlist based on users liked youtube videos
-- 🔭Currently learning Docker and practicing DevOps
-- 👯 I’m looking to collaborate on open source
+- ✍ In my spare time I work on an app that will automatically generate a spotify playlist based on users liked youtube videos
+- 🔭Currently working on a Kubernetes Cluster for georedundant hosting on GCP 
+- 👯 I’m looking for opportunities to work in Europe
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: he/Him
 - ⚡ Fun fact: I speak 3 languages ( English, French, Pidgin-English)
