@@ -9,7 +9,7 @@
 - 👯 I’m looking for opportunities to work in Europe
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: he/Him
-- ⚡ Fun fact: I speak 3 languages ( English, French, Pidgin-English)
+- ⚡ Fun fact: I speak 3 languages ( English, French, Pidgin-English) and I'm open to learning a new one
 
 
 ### Get in touch:
